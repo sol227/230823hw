@@ -4,6 +4,12 @@
 콘텐츠의 구조를 정의하는 **마크업 언어**<br>
 **링크 기능**을 가졌다는 특징이 있음
 
+## HTML 요소의 부분 ##
+* 여는 태그 (Opening tag)
+* 닫는 태그 (Closing tag)
+* 콘텐츠 (Content)
+* 요소 (Element)
+
 ## HTML 기본 요소 ##
 ### `<!DOCTYPE html>` ###
 DOCTYPE(DTD)은 **문서 타입 선언**이며 내용과는 관계없음
